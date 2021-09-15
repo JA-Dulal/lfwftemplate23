@@ -285,12 +285,12 @@ display: flex;
     margin-top: 110px;
 }
 .mainddddd4{
-    flex-basis: 17%;
+    flex-basis: 18%;
     height: 1000PX;
     border-left: 3px  solid red;
     background-color: rgb(185, 183, 183);
     margin-top: -450px;
-    margin-left: -90px;
+    margin-left: -70px;
 }
 .mainddddd4 h3{
     margin: 30px 30px;
