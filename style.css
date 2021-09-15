@@ -1,0 +1,384 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-div{
+    max-width: 1200px;
+    margin: auto;
+    background-color: #ffffff;
+}
+.secondiv{
+display: flex;
+}
+.main-mm{
+    display: flex;
+    margin-top: 30px;
+  
+    
+}
+.item-d{
+    
+    border: 1px solid #000;
+
+}
+.item-dd{
+    border: 1px solid #000;
+    
+    margin-left: 10px;
+
+}
+
+
+/* .over-min-div{
+    max-width: 1500px;
+    margin: auto;
+    background-color: rgb(255, 147, 7);
+} */
+
+
+.sisisiscol{
+    width: 2300px;
+    height: 1100px;
+    margin: auto;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.item-d-11{
+    flex-basis: 70%;
+}
+
+.item-d-1{
+    flex-basis: 30%;
+    margin-left: 10px;
+}
+
+
+
+
+
+.over-min-div{
+    display: flex;
+    margin-top: 40px;
+}
+
+
+
+
+.mol-div{
+    flex-basis: 70%;
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    align-content: center;
+
+}
+.mainddddd{
+    height: 200PX;
+    margin:0 40px;
+    flex-basis: 25%;
+    border: 1px  solid #000;
+    justify-content: center;
+    align-content: center;
+}
+
+.mainddddd-mid{
+    height: 200PX;
+    margin:0 40px;
+    flex-basis: 25%;
+    border: 1px  solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainddddd-cor{
+    height: 200PX;
+    margin:0 40px;
+    flex-basis: 25%;
+    border: 1px  solid #000;
+    display: flex;
+    justify-content: center;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.exxx{
+    margin: 20px 10px;
+   
+}
+.textt-center{
+    display: flex;
+    align-items: center;
+}
+.starter{
+    height: 200PX;
+    margin:0 40px;
+    flex-basis: 25%;
+    border: 1px  solid #000;
+    display: flex;
+    /* justify-content: center;
+    justify-content: flex-end;
+    align-items: flex-end; */
+}
+
+.starter-nn{
+    height: 200PX;
+    flex-basis: 25%;
+    border: 1px  solid #000;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-content: center;
+    
+}
+
+.mmidol{
+    height: 200PX;
+    margin:0 40px;
+    flex-basis: 25%;
+    border: 1px  solid #000;
+    display: flex;
+}
+
+
+.neeew{
+    
+}
+
+.div-red-1{
+    width: 50px;
+    height: 40px;
+    background-color: red;
+    border: 1px  solid rgb(109, 5, 5);
+    color: #fff;
+    justify-content: center;
+    font-size: 10px;
+    
+
+}
+
+.div-red-2{
+    width: 70px;
+    height: 50px;
+    background-color: red;
+    border: 1px  solid rgb(109, 5, 5);
+    color: #fff;
+    justify-content: center;
+    display: flex;
+
+}
+
+.div-red-3{
+    width: 70px;
+    height: 50px;
+    background-color: red;
+    border: 1px  solid rgb(109, 5, 5);
+    color: #fff;
+
+}
+
+
+
+/* 
+
+
+.extra-over-div{
+    display: flex;
+    flex-basis: 70%;
+    background-color: burlywood;
+}
+ */
+
+
+
+
+
+
+.Number1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.div-red-3{
+    width: 70px;
+    height: 50px;
+    background-color: red;
+    border: 1px  solid rgb(109, 5, 5);
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+
+.amii{
+    margin-left: 20px;
+}
+
+
+.amii2{
+    margin: 0 30px;
+}
+
+
+
+/*problm==*/
+
+
+.eeeender{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.Number1{
+    margin-top: -100px;
+}
+
+
+.Number3{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+.bd-job{
+    width: 400px;
+    height: 300px;
+    background-color: cadetblue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.db-sec{
+    background-color: red;
+    height: 50px;
+    width: 40px;
+}
+.last-work{
+    margin: -110px 0;
+}
+.last-work2{
+    margin-top: 110px;
+}
+.mainddddd4{
+    flex-basis: 20%;
+    height: 1000PX;
+    border-left: 3px  solid red;
+    background-color: rgb(185, 183, 183);
+    margin-top: -450px;
+    margin-left: -60px;
+}
+.mainddddd4 h3{
+    margin: 30px 30px;
+}
+.mainddddd4 img{
+    margin-left:30px ;
+}
+.mainddddd4 p{
+    margin-left:30px ;
+}
+.textmind1{
+    flex-basis: 23%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textmind2{
+    flex-basis: 34%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 -0px;
+}
+
+.mol-div{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+/*===========menuber=========================*/
+.container{
+    width: 1400px;
+    height: 50px;
+    margin: auto;
+}
+.ful-with{
+    height: 80px;
+    background-color: #000;
+    padding-top: 20px;
+    
+}
+.ful-with img{
+    width: 80px;
+}
+.menu-ver ul li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 10PX 10px;
+    position: relative;
+}
+.menu-ver ul li a::after{
+    content: "";
+    bottom: 0;
+    top: 100%;
+    left: 0;
+    position: absolute;
+    width: 85%;
+    height: 2%;
+    background-color: rgb(255, 255, 255);
+}
+.menu-ver ul li{
+    padding: 0 10px;
+}
+.menu-ver ul{
+    list-style: none;
+}
+.fflex-item{
+    display: flex;
+}
+.menu-ver{
+    margin-top: 20px;
+    margin-left: 650px;
+}
+
+
+
+/*======footer================*/
+
+
+
+.ful-withnn{
+
+    height: 80px;
+    background-color: #000;
+    padding-top: 20px;
+    margin-left: -300px;
+    
+}
